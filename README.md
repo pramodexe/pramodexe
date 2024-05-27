@@ -2,6 +2,8 @@
 
 ## Hello there 👋, welcome-to-my-github-profile!
 
+<img src="https://komarev.com/ghpvc/?username=pramod-lak&label=Profile%20views&color=0e75b6&style=flat">
+
 ### Who am I?
 
 I am a student currently pursuing a degree in Software Engineering at a state university. I chose this field because I enjoy coding and engaging in practical projects. Among my interests, I am particularly passionate about cybersecurity, which I have been self-studying since 2023. Additionally, I have a keen interest in Linux, Moodle, automation, and artificial intelligence.
